@@ -1,0 +1,3 @@
+jupyterlab-theme-solarized-dark
+numpy-quaternion
+
